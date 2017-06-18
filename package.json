@@ -1,0 +1,23 @@
+{
+  "name": "shout-message",
+  "version": "0.0.0",
+  "description": "An opinionated message",
+  "main": "index.js",
+  "repository": "https://github.com/bukinoshita/shout-message.git",
+  "author": "Bu Kinoshita <bukinoshita@gmail.com>",
+  "license": "MIT",
+  "scripts": {
+    "test": "xo --quiet && ava"
+  },
+  "dependencies": {
+    "chalk": "^1.1.3"
+  },
+  "devDependencies": {
+    "xo": "^0.18.2"
+  },
+  "xo": {
+    "space": true,
+    "semicolon": false,
+    "esnext": true
+  }
+}
