@@ -6,6 +6,7 @@
   "repository": "https://github.com/bukinoshita/shout-message.git",
   "author": "Bu Kinoshita <bukinoshita@gmail.com>",
   "license": "MIT",
+  "keywords": ["message", "shout", "console"],
   "scripts": {
     "test": "xo --quiet"
   },
