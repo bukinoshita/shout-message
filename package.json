@@ -1,12 +1,16 @@
 {
   "name": "shout-message",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "An opinionated message",
   "main": "index.js",
   "repository": "https://github.com/bukinoshita/shout-message.git",
   "author": "Bu Kinoshita <bukinoshita@gmail.com>",
   "license": "MIT",
-  "keywords": ["message", "shout", "console"],
+  "keywords": [
+    "message",
+    "shout",
+    "console"
+  ],
   "scripts": {
     "test": "xo --quiet"
   },
