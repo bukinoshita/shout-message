@@ -5,7 +5,7 @@
 ## Install
 
 ```
-$ npm install --save shout-message
+$ yarn add shout-message
 ```
 
 
